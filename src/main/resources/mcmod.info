@@ -1,0 +1,10 @@
+[{
+    "modid": "moneymod",
+    "name": "MoneyMod",
+    "description": "rich hack for minecraft 1.12.2 (i hate dis version pls kys)",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://plutonium.wtf/",
+    "authorList": ["cattyn", "pighax "],
+    "screenshots": []
+}]
